@@ -240,3 +240,13 @@ TSWLatexianTemp*
 
 # generated if using elsarticle.cls
 *.spl
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# OS X
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
